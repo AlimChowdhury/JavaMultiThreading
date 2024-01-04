@@ -1,4 +1,4 @@
-package ThreadPriority;
+package MultiThreadPart_1.ThreadPriority;
 class priority extends Thread{
     @Override
     public void run() {

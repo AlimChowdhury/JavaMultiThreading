@@ -1,4 +1,4 @@
-package NamingThread;
+package MultiThreadPart_1.NamingThread;
 
 class MyThread extends Thread{
     @Override

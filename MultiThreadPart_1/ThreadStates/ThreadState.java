@@ -1,4 +1,4 @@
-package ThreadStates;
+package MultiThreadPart_1.ThreadStates;
 
 class Processor implements Runnable{
     @Override

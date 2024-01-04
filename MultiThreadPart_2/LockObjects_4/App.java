@@ -1,4 +1,4 @@
-package LockObjects_4;
+package MultiThreadPart_2.LockObjects_4;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JoiningAndSynchronizeThreads_3;
+package MultiThreadPart_2.JoiningAndSynchronizeThreads_3;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -51,10 +51,10 @@ public class Worker {
         thread2.start();
 
         /**
-         * Join Threads: Finish until thread finishes execution, then progress
+         * MultiThreadPart_1.Join Threads: Finish until thread finishes execution, then progress
          * the code Reminder: your method is also a thread so without joining
          * threads System.out.println("Count is: " + count); will work
-         * immediately. Join does not terminate Thread 2, just progress of the
+         * immediately. MultiThreadPart_1.Join does not terminate Thread 2, just progress of the
          * code stops until Threads terminate.
          */
         try {

@@ -1,4 +1,4 @@
-package ThreadPool;
+package MultiThreadPart_1.ThreadPool;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package Join;
+package MultiThreadPart_1.Join;
 class ThreadJoin extends Thread{
     @Override
     public void run() {

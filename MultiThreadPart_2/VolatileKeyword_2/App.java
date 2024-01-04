@@ -1,4 +1,4 @@
-package VolatileKeyword_2;
+package MultiThreadPart_2.VolatileKeyword_2;
 
 import java.util.Scanner;
 

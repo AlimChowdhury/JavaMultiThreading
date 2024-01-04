@@ -1,4 +1,4 @@
-package Multitask;
+package MultiThreadPart_1.Multitask;
 
 class OddEven {
     private int count = 1;

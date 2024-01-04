@@ -1,4 +1,4 @@
-package StartingThreads_1;
+package MultiThreadPart_2.StartingThreads_1;
 public class ApplicationAnonymous {
     public static void main(String[] args) {
         Thread thread1 = new Thread(new Runnable() {

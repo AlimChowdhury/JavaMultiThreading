@@ -1,4 +1,4 @@
-package Sleep;
+package MultiThreadPart_1.Sleep;
 
 class sleepMethod extends Thread{
     @Override
